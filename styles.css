@@ -1,0 +1,13 @@
+body {
+  background: #104410;
+  color: #ffcf41;
+  font-family: "serif";
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: cjk-earthly-branch;
+}
